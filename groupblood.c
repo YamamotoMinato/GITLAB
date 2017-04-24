@@ -1,7 +1,7 @@
 #include <stdio.h> From YamamotoMinato
-#include <string.h>
+#include <string.h> Happy Birthday!
 void main()
-{ char Name[40], G[5], answer[10];
+{ char Name[80], G[5], answer[10];
   int i;
   do
   {
